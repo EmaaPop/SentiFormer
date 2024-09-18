@@ -7,7 +7,8 @@
 
   
 ## Data Preparation
-Download Datasets: See [metadata-enhanced image sentiment analysis datasets](https://drive.google.com/drive/folders/1d5Qwr7pur6t50p5KgJFk7aLArlFmrdHI).
+Download Datasets: please see [metadata-enhanced image sentiment analysis datasets](https://drive.google.com/drive/folders/1d5Qwr7pur6t50p5KgJFk7aLArlFmrdHI).
+
 All the data is publicly available at this link https://drive.google.com/drive/folders/1d5Qwr7pur6t50p5KgJFk7aLArlFmrdHI for research purposes.
 
 ## Environment and Dependencies
