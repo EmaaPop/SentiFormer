@@ -5,6 +5,7 @@
 **Framework of SentiFormer**
 <img src="framework.png"/>
 
+[Research Paper](https://arxiv.org/abs/2502.15322)
   
 ## Data Preparation
 Download Datasets: please see [metadata-enhanced image sentiment analysis datasets](https://drive.google.com/drive/folders/1d5Qwr7pur6t50p5KgJFk7aLArlFmrdHI).
