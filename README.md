@@ -51,4 +51,10 @@ python visualize.py --CUDA_VISIBLE_DEVICES 0 --project_name MET_Test --datasetNa
 ```
 
 
-
+For last training: 
+Best Performance was achieved at **epoch 8** with excellent metrics:
+**Accuracy**: 99.31% - This means 99.31% of all predictions were correct
+**Precision**: 98.69% - Of all the times the model predicted a particular emotion, it was right 98.69% of the time
+**Recall**: 99.31% - Of all the actual instances of each emotion, the model correctly identified 99.31% of them
+**F1-score**: 98.98% - This is the harmonic mean of precision and recall, indicating very balanced performance
+**AUC-ROC**: 0.0 - This is showing as 0 because we modified the metrics to handle the single-class case, it can be ignored
