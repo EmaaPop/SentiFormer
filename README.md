@@ -51,7 +51,8 @@ python visualize.py --CUDA_VISIBLE_DEVICES 0 --project_name MET_Test --datasetNa
 ```
 
 
-For last training: 
+
+## For last training: 
 Best Performance was achieved at **epoch 8** with excellent metrics:
 
 **Accuracy**: 99.31% - This means 99.31% of all predictions were correct
@@ -63,3 +64,9 @@ Best Performance was achieved at **epoch 8** with excellent metrics:
 **F1-score**: 98.98% - This is the harmonic mean of precision and recall, indicating very balanced performance
 
 **AUC-ROC**: 0.0 - This is showing as 0 because we modified the metrics to handle the single-class case, it can be ignored
+
+
+## For the last testing: 
+Best Performance was achieved at **epoch 9**
+
+
