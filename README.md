@@ -69,4 +69,8 @@ Best Performance was achieved at **epoch 8** with excellent metrics:
 ## For the last testing: 
 Best Performance was achieved at **epoch 9**
 
+## Visualizer Results:
+<img src="Figure_1.png"/>
+
+<img src="Figure_2.png"/>
 
